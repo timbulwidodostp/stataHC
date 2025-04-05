@@ -1,0 +1,5 @@
+D 'stataHC': Generate fully contained interactive charts using highcharts Use stataHC With STATA 18
+D
+F stataHC.ado
+F stataHC.sthlp
+F stataHC.js
