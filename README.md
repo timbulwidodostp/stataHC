@@ -1,5 +1,7 @@
 # stataHC
-Generate fully contained interactive charts using highcharts Use stataHC With STATA 18
+Generate fully contained interactive charts using highcharts Use stataHC With STATA 19
+
+https://www.youtube.com/watch?v=vZmQvU8dg5E
 
 Olah Data Semarang
 
